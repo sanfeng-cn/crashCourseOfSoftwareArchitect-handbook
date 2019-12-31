@@ -11,7 +11,7 @@
 
 您可以通过以下方式使用本书：
 
-- Github地址：
+- Github地址：<https://github.com/sanfeng-cn/crashCourseOfSoftwareArchitect-handbook>
 - Gitbook在线浏览：http://blog.kfzhang.cn/handbook/crash-course-of-software-architect/
 
 ## License
